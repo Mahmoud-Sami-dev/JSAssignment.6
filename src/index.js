@@ -10,4 +10,4 @@ app.use("/sales", require("./routes/sales.routes"));
 app.listen(3000, () => {
   console.log("Server running on port 3000");
 });
-//https://nassefm807-7801898.postman.co/workspace/Mahmoud-Sami-Nassef's-Workspace~2c8f71e3-56cd-43ad-874e-f48b10c4129c/collection/51125510-098701ad-b1ac-43f7-83a4-84da3c761ded?action=share&creator=51125510&active-environment=51125510-a6a01ba8-8aeb-4d6b-ac3f-555686cd98a7
+//https://nassefm807-7801898.postman.co/workspace/Mahmoud-Sami-Nassef's-Workspace~2c8f71e3-56cd-43ad-874e-f48b10c4129c/request/51125510-f8313591-da97-496d-b46e-af85e37795e0?action=share&creator=51125510&ctx=documentation&active-environment=51125510-a6a01ba8-8aeb-4d6b-ac3f-555686cd98a7
